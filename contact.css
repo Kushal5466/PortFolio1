@@ -1,0 +1,19 @@
+.contact-us 
+{
+    padding:100px;
+    text-align: center;
+    font-size: 20pt;
+}
+#submit
+{
+    padding: 7px 15px;
+    font-size: x-large;
+}
+.submit
+{
+    padding-left: 50px;
+}
+#submit:hover
+{
+    background-color: springgreen;
+}
