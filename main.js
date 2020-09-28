@@ -18,5 +18,5 @@ if(key && value)
     localStorage.setItem(key,value);
 }
  window.location.assign("/s.html");
-   return false;
+  // return false;
 };
