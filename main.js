@@ -17,6 +17,6 @@ if(key && value)
 {
     localStorage.setItem(key,value);
 }
- window.location.assign("/s.html");
+ window.location.assign("file:///C:/Users/Manu/PortFolio1/s.html");
   // return false;
 };
