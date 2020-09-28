@@ -16,6 +16,6 @@ if(key && value)
 {
     localStorage.setItem(key,value);
 }
- window.location.href("https://kushal5466.github.io/PortFolio1/s.html");
+ window.location.href("/s.html");
   // return false;
 };
